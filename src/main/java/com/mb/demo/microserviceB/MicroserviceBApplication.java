@@ -15,7 +15,10 @@ public class MicroserviceBApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroserviceBApplication.class, args);
-
+		//change for third commit
+		//change for third commit 2
+		//www
+//wwse
 	}
 	@Bean
 	public CommandLineRunner run(YourConsumerService consumerService) {
