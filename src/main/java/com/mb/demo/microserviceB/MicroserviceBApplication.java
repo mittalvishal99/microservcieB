@@ -18,7 +18,7 @@ public class MicroserviceBApplication {
 		//change for third commit
 		//change for third commit 2
 		//www
-
+//wwse
 	}
 	@Bean
 	public CommandLineRunner run(YourConsumerService consumerService) {
