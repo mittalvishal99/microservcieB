@@ -15,7 +15,7 @@ public class MicroserviceBApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroserviceBApplication.class, args);
-
+///my change
 	}
 	@Bean
 	public CommandLineRunner run(YourConsumerService consumerService) {
