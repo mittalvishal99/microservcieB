@@ -20,6 +20,7 @@ public class MicroserviceBApplication {
 		//www
 //wwse
 		//eeee
+		//new for B
 	}
 	@Bean
 	public CommandLineRunner run(YourConsumerService consumerService) {
